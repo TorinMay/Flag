@@ -9,11 +9,11 @@ public class Point {
 		this.height = height;
 	}
 
-	public int width(){
+	public int width(int width){
 		return this.width;
 	}
 
-	public int height(){
+	public int height(int height){
 		return this.height;
 	}
 }

@@ -12,7 +12,7 @@ public class Rectangle {
 	}
 
 	public void draw(Graphics g){
-		
+		flag.draw(g);
 	} 
 
 }

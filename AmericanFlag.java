@@ -12,7 +12,7 @@ class AmericanFlag {
 	public AmericanFlag(int width, int height, double scale) {
 		this.scale = scale;
 		this.stripes = new Rectangle[13];
-		this.union = new Rectangle[width, height (scale*99, scale*66) Color.blue];
+		this.union = new Rectangle[width, height (scale, scale) Color.blue];
 		for (int i=0; i< 13; i++) {
 			if (i % 2 == 0) {
 				stripes[i] = new Rectangle();
